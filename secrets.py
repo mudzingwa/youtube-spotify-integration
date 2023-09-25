@@ -1,5 +1,5 @@
-spotify_token = "BQAO9ljzM3E7sg-q5QoE8viYBf8GbNBEpWDyw1OQx_qsrl4WIGMeIxi6yfz05rPW39p4gS-hdnI8j85N3--Ed-MPTZhxGDWlwkpgi49SBwE0SIDSF_jX3KvSYfcrPe701e6P_Vqaoq_inQU7uS7lBgsHlYGj0r2ZL6IRhUg3QpExApryDqeGSXk9UzGlK_nfZwdPhc-mtZZvcrBW1rCOAYjNnx7-9Zq14qChnOTrbp97bWFXzgCLhl_3MRbVLjFoh_g"
-spotify_user_id = "31ua2geklgzzvgpzwh4zfwdy3f6m"
+spotify_token = ""
+spotify_user_id = ""
 
 #curl -H "Authorization: Basic MGJhNDJjN2QwMTcwNDBjNzk3NDdmYmVkNGQ0ZmZlMjI6NTZjNTYzN2Y2N2JiNGQ4YTlhOTlmYmI0MzU2MjY5NWY=" -d grant_type=authorization_code -d code=AQAbdbKlMSZ8Y34OygX0Jm3wJScvCK4B_a1Qy0GTLZJWfNLrJ7YNOqcuX82WZ42pZh_ChjuxuSAjHL12hAKF11hpXMhNkH5dWav_OZBm70Mo0BKm58y80pLx8EJRiyZpO5sJfi-91-7pvj_NvmYDdWZEToJfuZ9fMQW_J54o81c_nVENHi7Mco4gFGhrbxSRDXA_YzHxn6Ctwk_tmGI33y6UouKu4438WlpAse5IwBefNTwsPTdCi6gKP4Xd -d redirect_uri=https%3A%2F%2Fwww.github.com%2Fasheleymudzingwa%2F https://accounts.spotify.com/api/token
 
